@@ -6,7 +6,7 @@ This repository is just for a really simple nodeJS test, What this project does 
 With the Git Bash run this command
 
 ```bash
-git clone {repository link}
+git clone git@github.com:GamertodArk/simple-nodejs-test.git
 ```
 
 Then, go to the new folder and run this command
